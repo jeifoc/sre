@@ -1,0 +1,10 @@
+afd.waf.details_matchvariablename,afd.waf.action,Total
+JsonValue:datos.apeTer,AnomalyScoring,102.00
+JsonValue:datos.apeTer2,AnomalyScoring,119.00
+JsonValue:datos.direc,AnomalyScoring,96.00
+JsonValue:datos.email,AnomalyScoring,104.00
+JsonValue:datos.fecNac,AnomalyScoring,84.00
+JsonValue:datos.nomTer,AnomalyScoring,108.00
+JsonValue:datos.numDocIden,AnomalyScoring,99.00
+JsonValue:datos.sexo,AnomalyScoring,98.00
+JsonValue:datos.telef1,AnomalyScoring,98.00

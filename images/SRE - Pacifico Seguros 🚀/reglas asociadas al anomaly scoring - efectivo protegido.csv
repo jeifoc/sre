@@ -1,0 +1,10 @@
+Rule Name,Total
+Microsoft_DefaultRuleSet-2.0-RCE-932140,52.00
+Microsoft_DefaultRuleSet-2.0-SQLI-942120,4.00
+Microsoft_DefaultRuleSet-2.0-SQLI-942210,123.00
+Microsoft_DefaultRuleSet-2.0-SQLI-942340,267.00
+Microsoft_DefaultRuleSet-2.0-SQLI-942390,8.00
+Microsoft_DefaultRuleSet-2.0-SQLI-942400,1.00
+Microsoft_DefaultRuleSet-2.0-XSS-941100,224.00
+Microsoft_DefaultRuleSet-2.0-XSS-941120,226.00
+Microsoft_DefaultRuleSet-2.0-XSS-941150,3.00
